@@ -1,0 +1,143 @@
+* {
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.header1 {
+  color: rgba(75, 75, 75, 1);
+  font-size: 64px;
+  margin: 26px 0px 0px 290px;
+}
+
+.container {
+  margin: 49 auto;
+  text-align: center;
+  font-size: 24px;
+  padding-right: 80px;
+}
+
+
+.button1 {
+  color: rgba(75, 75, 75, 1);
+}
+
+.buttons {
+  color: rgba(75, 75, 75, 0.5);
+}
+
+.container0 {
+  margin: 86 auto;
+  width: 1300px;
+  height: 1035px;
+}
+
+.container1 {
+  background: rgba(250, 244, 239, 1);
+  width: 366px;
+  height: 420px;
+  border-radius: 0px 0px 0px 50px;
+  float: left;
+  padding-top: 20px;
+}
+
+.container2 {
+  background: rgba(250, 244, 239, 1);
+  width: 366px;
+  height: 420px;
+  border-radius: 0px 0px 0px 50px;
+  float: left;
+  margin-left: 67px;
+  padding-top: 20px;
+}
+
+.container3 {
+  background: rgba(250, 244, 239, 1);
+  width: 366px;
+  height: 420px;
+  border-radius: 0px 0px 0px 50px;
+  float: left;
+  margin-left: 66px;
+  padding-top: 20px;
+}
+
+.container4 {
+  background: rgba(250, 244, 239, 1);
+  width: 366px;
+  height: 420px;
+  border-radius: 0px 0px 0px 50px;
+  float: left;
+  margin-top: 130px;
+  padding-top: 20px;
+}
+
+.container5 {
+  background: rgba(250, 244, 239, 1);
+  width: 366px;
+  height: 420px;
+  border-radius: 0px 0px 0px 50px;
+  float: left;
+  margin: 130px 67px;
+  padding-top: 20px;
+}
+
+.container6 {
+  background: rgba(250, 244, 239, 1);
+  width: 366px;
+  height: 420px;
+  border-radius: 0px 0px 0px 50px;
+  float: left;
+  margin-top: 130px;
+  padding-top: 20px;
+}
+
+
+.header2 {
+  color: rgba(75, 75, 75, 1);
+  font-size: 36px;
+  margin-left: 46px;
+}
+
+.cost {
+  color: rgba(115, 115, 115, 1);
+  font-size: 24px;
+  margin-left: 46px;
+}
+
+.image1 {
+  width: 231.13px;
+  height: 285px;
+  margin-left: 67px;
+}
+
+.image2 {
+  width: 299px;
+  height: 299px;
+  margin: 18px 33px;
+}
+
+.image3 {
+  width: 329px;
+  height: 329px;
+  margin: -12px 18px;
+}
+
+.image4 {
+  width: 340px;
+  height: 340px;
+  margin: -30px 21px;
+}
+
+.image5 {
+  width: 333px;
+  height: 205px;
+  margin: 40px 16px;
+}
+
+.image6 {
+  width: 327px;
+  height: 261px;
+  margin: 37px 27px;
+}
+
+
+
